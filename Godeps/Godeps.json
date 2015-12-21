@@ -1,0 +1,18 @@
+{
+	"ImportPath": "github.com/abalone0204/building_webapp",
+	"GoVersion": "go1.5",
+	"Packages": [
+		"./"
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/russross/blackfriday",
+			"Comment": "v1.4-12-gd18b67a",
+			"Rev": "d18b67ae0afd61dae240896eae1785f00709aa31"
+		},
+		{
+			"ImportPath": "github.com/shurcooL/sanitized_anchor_name",
+			"Rev": "10ef21a441db47d8b13ebcc5fd2310f636973c77"
+		}
+	]
+}

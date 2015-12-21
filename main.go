@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/abalone0204/building_webapp/02-deployment/Godeps/_workspace/src/github.com/russross/blackfriday"
+	"github.com/abalone0204/building_webapp/Godeps/_workspace/src/github.com/russross/blackfriday"
 	"net/http"
 	"os"
 )
